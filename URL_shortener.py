@@ -1,3 +1,4 @@
+#used with https://cutt.ly/ to help shorten links, run in terminal/run program through ide
 import requests
 
 
